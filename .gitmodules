@@ -4,7 +4,7 @@
 	branch = runtime_uniforms
 [submodule "modules/XRLinuxDriver"]
 	path = modules/XRLinuxDriver
-	url = https://github.com/wheaney/XRLinuxDriver.git
+	url = https://github.com/zw963/XRLinuxDriver.git
 [submodule "modules/sombrero"]
 	path = modules/sombrero
 	url = https://github.com/wheaney/sombrero.git
